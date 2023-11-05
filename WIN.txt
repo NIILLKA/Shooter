@@ -1,3 +1,1 @@
-
-+print("Glorious victory is achieved with sweat and blood.");
-+print("Fighting as one, we will accept the gift of victory.");
+++print("Glorious victory is achieved with sweat and blood.");
