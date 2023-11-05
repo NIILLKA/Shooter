@@ -1,0 +1,1 @@
+++print("Glorious victory is achieved with sweat and blood.");
