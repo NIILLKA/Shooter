@@ -1,0 +1,1 @@
++print("Fighting as one, we will accept the gift of victory.")
